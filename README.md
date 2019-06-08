@@ -55,9 +55,21 @@ servicios que PayPal ofrece.
 <img src="img/img5.png"><br/>
 9. Aquí están todas las herramientas que se pueden hacer con la cuenta Business, en el ejemplo que haremos será con los botones, entonces buscamos la herramienta que diga Paypal buttons.<br/>
 <img src="img/img6.png"><br/>
-10. Aquí van a aparecer todos los tipos de botones que existen, para el código que hay de ejemplo se usan dos botones, uno de carrito y otro para compra un solo producto, aquí haremos la prueba de carrito, vamos donde dice Action en el botón de añadir a carrito y luego la opción de crear un nuevo botón.
+10. Aquí van a aparecer todos los tipos de botones que existen, para el código que hay de ejemplo se usan dos botones, uno de carrito y otro para compra un solo producto, aquí haremos la prueba de carrito, vamos donde dice Action en el botón de añadir a carrito y luego la opción de crear un nuevo botón.<br/>
 <img src="img/img7.png"><br/>
-11. Aparecerán varias opciones para modificar el botón como queramos, llenaremos los datos indicados con el producto que deseamos agregar.
+11. Aparecerán varias opciones para modificar el botón como queramos, llenaremos los datos indicados con el producto que deseamos agregar.<br/>
 <img src="img/img8.png"><br/>
-12 Buscaremos el botón que dice crear botón y Paypal automáticamente nos creará el código html del botón el cual solamente se tendrá que copiar y pegar dentro del html que deseamos que tenga esta funcionalidad.
+12 Buscaremos el botón que dice crear botón y Paypal automáticamente nos creará el código html del botón el cual solamente se tendrá que copiar y pegar dentro del html que deseamos que tenga esta funcionalidad.<br/>
 <img src="img/img9.png"><br/>
+13. En nuestra página html nos creará el botón.
+<img src="img/img10.png"><br/>
+14. Al darle click automáticamente nos enviará al carrito de compras y nos saldrá el producto que seleccionamos con toda la información correspondiente.<br/>
+<img src="img/img11.png"><br/>
+15. Para comprar el articulo nos dejará iniciar sesión en Paypal o comprar el producto sin tener que registrarse en Paypal, para iniciar sesión en Paypal y probar la compra es recomendable usar la cuenta personal que dice "buyer" ya que esta cuenta con una tarjeta asociada de prueba.<br/>
+<img src="img/img12.png"><br/>
+16. Luego de iniciar sesión seleccionaremos la cuenta de paypal ya que al ser una cuenta sandbox ahí tendremos todo el dinero de prueba y la selecionamos.<br/>
+<img src="img/img13.png"><br/>
+17. Nos mostrará la información del método de pago que seleccionamos y procederemos al pago.<br/>
+<img src="img/img14.png"><br/>
+18. Por último nos muestra la factura con todo el pago realizado.<br/>
+<img src="img/img15.png"><br/>
