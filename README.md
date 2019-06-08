@@ -42,3 +42,8 @@ servicios que PayPal ofrece.
 
 1. Entrar a este link https://developer.paypal.com/developer/accounts/ 
 2. Darle al botón que dice Log in to Dashboard 
+<img src="img/img1.png">
+3. Se inicia sesión o se crea una nueva cuenta de Paypal.
+<img src="img/img2.png">
+4. En el menú selecciona la opción que dice Accounts. Ahí podrá ver las cuentas que están asociadas a su cuenta, todas son cuentas de prueba, por defecto Paypal le crea a uno 2 cuentas una de business que una cuenta persona que se usa para hacerse pasar por una empresa y la otra cuenta es para comprar productos la cual ya te tiene dinero y una tarjeta “falsa” que está asociada a la cuenta para hacer pruebas de compra.
+<img src="img/img3.png">
