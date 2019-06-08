@@ -40,10 +40,16 @@ servicios que PayPal ofrece.
 
 # ¿Cómo usar el API de Paypal?
 
-1. Entrar a este link https://developer.paypal.com/developer/accounts/ 
-2. Darle al botón que dice Log in to Dashboard 
-<img src="img/img1.png">
-3. Se inicia sesión o se crea una nueva cuenta de Paypal.
-<img src="img/img2.png">
-4. En el menú selecciona la opción que dice Accounts. Ahí podrá ver las cuentas que están asociadas a su cuenta, todas son cuentas de prueba, por defecto Paypal le crea a uno 2 cuentas una de business que una cuenta persona que se usa para hacerse pasar por una empresa y la otra cuenta es para comprar productos la cual ya te tiene dinero y una tarjeta “falsa” que está asociada a la cuenta para hacer pruebas de compra.
-<img src="img/img3.png">
+1. Entrar a este link https://developer.paypal.com/developer/accounts/ <br/>
+2. Darle al botón que dice Log in to Dashboard  <br/>
+<img src="img/img1.png"> <br/>
+3. Se inicia sesión o se crea una nueva cuenta de Paypal. <br/>
+<img src="img/img2.png"> <br/>
+4. En el menú selecciona la opción que dice Accounts. Ahí podrá ver las cuentas que están asociadas a su cuenta, todas son cuentas de prueba, por defecto Paypal le crea a uno 2 cuentas una de business que una cuenta persona que se usa para hacerse pasar por una empresa y la otra cuenta es para comprar productos la cual ya te tiene dinero y una tarjeta “falsa” que está asociada a la cuenta para hacer pruebas de compra. <br/>
+<img src="img/img3.png"> <br/>
+5. Al lado de cada cuenta hay un botón que dice Actions el cual hay que darle click y entrará a la configuración de esta cuenta, a esas dos que se crean por defecto hay que darles una contraseña para poder usarlas, luego de ponerle una contraseña a una cuenta esta se activará y podrá ser usada de prueba.<br/> 
+6. Luego entre a este link https://www.sandbox.paypal.com/cr/home <br/> 
+7. Seleccione el botón de iniciar sesión que se encuentra en la parte de ariba e ingrese con la cuenta que desee, por ejemplo inicie sesión con la cuenta de Business. <br/>
+<img src="img/img4.png"> <br/>
+8. Aquí podrá ver todo lo que tiene que ver con su cuenta business, entre al menú donde dice Tools y seleccione la opción de All Tools. <br/>
+<img src="img/img5.png"> <br/>
