@@ -75,6 +75,6 @@ servicios que PayPal ofrece.
 <img src="img/img15.png"><br/>
 
 
-## Nugets
-1. Newtonsoft.Json
-2. Paypal
+## Nugets <br>
+1. Newtonsoft.Json <br>
+2. Paypal <br>
