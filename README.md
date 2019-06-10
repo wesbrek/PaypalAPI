@@ -73,3 +73,8 @@ servicios que PayPal ofrece.
 <img src="img/img14.png"><br/>
 18. Por último nos muestra la factura con todo el pago realizado.<br/>
 <img src="img/img15.png"><br/>
+
+
+## Nugets
+1. Newtonsoft.Json
+2. Paypal
