@@ -78,3 +78,6 @@ servicios que PayPal ofrece.
 ## Nugets <br>
 1. Newtonsoft.Json <br>
 2. Paypal <br>
+
+## Youtube
+https://www.youtube.com/watch?v=LKXJDetxnnQ&t=127s
