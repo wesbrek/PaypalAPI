@@ -49,7 +49,7 @@ servicios que PayPal ofrece.
 <img src="img/img3.png"><br/>
 5. Al lado de cada cuenta hay un botón que dice Actions el cual hay que darle click y entrará a la configuración de esta cuenta, a esas dos que se crean por defecto hay que darles una contraseña para poder usarlas, luego de ponerle una contraseña a una cuenta esta se activará y podrá ser usada de prueba.<br/> 
 6. Luego entre a este link https://www.sandbox.paypal.com/cr/home<br/> 
-7. Seleccione el botón de iniciar sesión que se encuentra en la parte de ariba e ingrese con la cuenta que desee, por ejemplo inicie sesión con la cuenta de Business.<br/>
+7. Seleccione el botón de iniciar sesión que se encuentra en la parte de arriba e ingrese con la cuenta que desee, por ejemplo inicie sesión con la cuenta de Business.<br/>
 <img src="img/img4.png"><br/>
 8. Aquí podrá ver todo lo que tiene que ver con su cuenta business, entre al menú donde dice Tools y seleccione la opción de All Tools.<br/>
 <img src="img/img5.png"><br/>
